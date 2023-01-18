@@ -1,0 +1,16 @@
+os
+streamlit
+pandas
+importlib
+numpy
+matplotlib.pyplot
+matplotlib
+collections
+import 
+scipy.stats
+seaborn
+sklearn
+collections
+datetime
+sklearn.model_selection
+category_encoders
